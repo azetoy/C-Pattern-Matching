@@ -47,7 +47,7 @@ Cloner le lien github avec <https://github.com/azetoy/C-Pattern-Matching>
 
 Ou télécharger le dossier
 
-Executez la commande ``make`` pour commencer et ensuite faire ``./Pattern Matching``
+Executez la commande ``make`` pour commencer et ensuite faire ``./PatternMatching``
 
 ### Fabriqué avec
 
